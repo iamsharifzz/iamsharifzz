@@ -24,15 +24,6 @@
 ---
 
 <div align="center">
-  <h2>📊 GitHub Insights</h2>
-  <p><i>(This dashboard updates automatically to showcase my latest coding activity and achievements)</i></p>
-
-  <img src="https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg?raw=true" alt="Sharifzz's GitHub Metrics Dashboard" width="100%"/>
-</div>
-
----
-
-<div align="center">
   <h2>🌱 Currently Learning & Building</h2>
   <p>I am continuously expanding my knowledge and actively working on innovative projects. Stay tuned for more updates!</p>
 </div>
