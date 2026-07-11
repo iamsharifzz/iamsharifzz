@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x200?text=Your+Professional+Illustration+Here" alt="Professional Illustration" width="600"/>
+  <img src="https://raw.githubusercontent.com/iamsharifzz/iamsharifzz/main/assets/developer-at-work.svg" alt="Professional Illustration" width="600"/>
 </p>
 
 <p align="center">
@@ -25,45 +25,9 @@
 
 <div align="center">
   <h2>📊 GitHub Insights</h2>
-  <p><i>(These dynamic stats will update automatically once the GitHub Action is configured)</i></p>
+  <p><i>(This dashboard updates automatically to showcase my latest coding activity and achievements)</i></p>
 
-  <h3>Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=iamsharifzz&color=blue" alt="Profile views"/>
-
-  <h3>My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=iamsharifzz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Sharifzz's GitHub Stats"/>
-
-  <h3>Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsharifzz&layout=compact&theme=radical&hide_border=true" alt="Sharifzz's Top Languages"/>
-
-  <h3>My Coding Habits</h3>
-  <img src="https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg?raw=true" alt="Sharifzz's GitHub Habits"/>
-
-  <h3>Isometric Commit Calendar</h3>
-  <img src="https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg?raw=true" alt="Sharifzz's Isometric Commit Calendar"/>
-
-  <h3>GitHub Achievements</h3>
-  <img src="https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg?raw=true" alt="Sharifzz's GitHub Achievements"/>
-</div>
-
----
-
-<div align="center">
-  <h2>🌟 Top Projects</h2>
-  <p>Here are some projects I'm particularly proud of. Feel free to explore!</p>
-  
-  <!-- Example Project Entry (Duplicate and modify for each project) -->
-  <a href="#" target="_blank">
-    <img src="https://via.placeholder.com/300x150?text=Project+Image" alt="Project Title" width="300"/>
-  </a>
-  <h3>Project Title</h3>
-  <p>A brief description of your project, highlighting its purpose and key features.</p>
-  <p><b>Technologies:</b> React, Node.js, MongoDB</p>
-  <a href="#" target="_blank">View Project</a> | <a href="#" target="_blank">GitHub Repo</a>
-  <br><br>
-  <!-- End Example Project Entry -->
-
-  <p><i>(Please provide details of your top projects, and I can help you format them here!)</i></p>
+  <img src="https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg?raw=true" alt="Sharifzz's GitHub Metrics Dashboard" width="100%"/>
 </div>
 
 ---
