@@ -1,14 +1,18 @@
 # Hi there, I'm Sharifzz! 👋
 
-### Building digital experiences.
+### Building digital experiences that captivate and convert.
 
-I am a passionate **Website Developer**, specializing in **Shopify Theme Development**, and a skilled **Flutter App Developer**. I focus on crafting beautiful and highly functional digital solutions.
+<p align="center">
+  <img src="https://via.placeholder.com/400x200?text=Developer+at+Work" alt="Developer at Work" width="400"/>
+</p>
+
+I am a passionate **Website Developer**, specializing in **Shopify Theme Development**, and a skilled **Flutter App Developer**. I thrive on crafting beautiful, high-performance, and user-centric digital solutions that deliver exceptional experiences across web and mobile platforms.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 My Expertise
 
-Here are some of the technologies I work with:
+Here are some of the technologies and tools I leverage to bring ideas to life:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -18,31 +22,45 @@ Here are some of the technologies I work with:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-<!-- To generate these metrics, you will need to set up a GitHub Action. Instructions will be provided. -->
+<!-- GitHub Metrics will be generated daily by a GitHub Action -->
 
-### My Coding Habits
+### Profile Views
 
-[![Sharifzz's GitHub Habits](https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg?raw=true)](https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamsharifzz&color=blue" alt="Profile views"/>
+</p>
 
-### Top Languages
+### My GitHub Achievements
 
-[![Sharifzz's Top Languages](https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg?raw=true)](https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg)
+<p align="center">
+  <img src="https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg?raw=true" alt="GitHub Achievements"/>
+</p>
+
+### Top Languages & Coding Habits
+
+<p align="center">
+  <img src="https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg?raw=true" alt="Top Languages and Coding Habits"/>
+</p>
 
 ### Isometric Commit Calendar
 
-[![Sharifzz's Isometric Commit Calendar](https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg?raw=true)](https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg)
+<p align="center">
+  <img src="https://github.com/iamsharifzz/iamsharifzz/blob/main/github-metrics.svg?raw=true" alt="Isometric Commit Calendar"/>
+</p>
 
 ---
 
 ## 🌱 Currently Learning & Building
 
-I am continuously expanding my knowledge and working on exciting new projects.
+I am continuously expanding my knowledge and actively working on innovative projects. Stay tuned for more updates!
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Let's Connect!
+
+Feel free to reach out and connect with me across these platforms:
 
 <p align="left">
   <a href="https://www.threads.com/@iamsharifzz" target="_blank"><img src="https://img.shields.io/badge/Threads-%23000000.svg?&style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" /></a>
