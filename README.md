@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamsharifzz/iamsharifzz/main/assets/developer-at-work.svg" alt="Professional Illustration" width="600"/>
+  <img src="assets/developer-at-work.svg" alt="Professional Illustration" width="600"/>
 </p>
 
 <p align="center">
