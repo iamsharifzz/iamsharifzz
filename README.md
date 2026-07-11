@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/iamsharifzz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsharifzz&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/banner.gif" alt="Animated Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hi there, I'm Sharifzz 👋</h1>
@@ -60,6 +58,11 @@ Currently, I am focused on **learning and building** advanced projects, pushing 
 ---
 
 ## 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamsharifzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sharifzz GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsharifzz&theme=tokyonight&hide_border=true" alt="Sharifzz GitHub Streak" />
+</div>
 
 <div align="center">
   <!-- METRICS:START -->
